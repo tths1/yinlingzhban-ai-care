@@ -6,3 +6,4 @@ elder_profile.backup.json
 .env.*
 !.env.example
 *.log
+output/
