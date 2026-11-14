@@ -1,0 +1,13 @@
+{
+  "profile": {
+    "name": "",
+    "age": null,
+    "conditions": [],
+    "allergies": [],
+    "emergency_contact": ""
+  },
+  "medications": [],
+  "health_records": [],
+  "daily_status": {},
+  "care_actions": []
+}

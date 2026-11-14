@@ -1,0 +1,51 @@
+{
+  "profile": {
+    "name": "王阿姨",
+    "age": 72,
+    "conditions": [
+      "高血压"
+    ],
+    "allergies": [],
+    "emergency_contact": "女儿林女士"
+  },
+  "medications": [
+    {
+      "name": "阿司匹林",
+      "dose": "1片",
+      "time": "08:30",
+      "status": "已服用"
+    },
+    {
+      "name": "氨氯地平",
+      "dose": "5mg，1片",
+      "time": "15:00",
+      "status": "待服用"
+    }
+  ],
+  "health_records": [
+    {
+      "date": "2026-11-04",
+      "time": "18:20",
+      "type": "血压",
+      "name": "晚饭前血压",
+      "value": "138/86，心率76",
+      "blood_pressure": "138/86",
+      "pulse": 76
+    },
+    {
+      "date": "2026-11-03",
+      "time": "07:40",
+      "type": "睡眠",
+      "name": "昨晚睡眠",
+      "value": "6.2小时",
+      "sleep_hours": 6.2
+    }
+  ],
+  "daily_status": {
+    "steps": 4286,
+    "water_ml": 900,
+    "mood": "一般",
+    "activity_note": "上午活动量偏低，久坐提醒已查看"
+  },
+  "care_actions": []
+}
