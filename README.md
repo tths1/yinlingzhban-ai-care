@@ -36,7 +36,7 @@ python3 reset_demo.py
 
 首次打开是空的真实档案。点击“查看演示数据”可以进入预置的王阿姨案例；退出后回到本地真实档案。
 
-3 分钟现场讲解稿见 [PRESENTATION.md](PRESENTATION.md)，7 分钟视频演示稿见 [VIDEO_SCRIPT_7MIN.md](VIDEO_SCRIPT_7MIN.md)，技术文档 PDF 草稿见 [TECHNICAL_DOCUMENT.md](TECHNICAL_DOCUMENT.md)，提交清单见 [SUBMISSION_CHECKLIST.md](SUBMISSION_CHECKLIST.md)。
+3 分钟现场讲解稿见 [PRESENTATION.md](PRESENTATION.md)，7 分钟视频演示稿见 [VIDEO_SCRIPT_7MIN.md](VIDEO_SCRIPT_7MIN.md)，技术文档源稿见 [TECHNICAL_DOCUMENT.md](TECHNICAL_DOCUMENT.md)，提交版 PDF 见 [submission/银龄智伴_技术文档.pdf](submission/银龄智伴_技术文档.pdf)，提交清单见 [SUBMISSION_CHECKLIST.md](SUBMISSION_CHECKLIST.md)。
 
 阿里云 ECS 部署模板和操作步骤见 [DEPLOY_ALIYUN.md](DEPLOY_ALIYUN.md)。
 
@@ -56,3 +56,11 @@ python3 reset_demo.py
 - 只有与当前问题相关的档案字段会发送给千问。
 - AI 不诊断、不改药；不确定的识别结果会标记为“待确认”。
 - `reset_demo.py` 清空真实档案，并清除演示流程中临时新增的记录、任务和删除状态，保留预置案例。
+
+
+## 参赛提交物
+
+- 技术文档 PDF：`submission/银龄智伴_技术文档.pdf`
+- 7 分钟视频：在本地 `output/银龄智伴_评委演示视频_最终版.mp4`，视频按赛事要求单独上传。
+- 在线演示：<http://47.119.141.45/>
+- GitHub：<https://github.com/tths1/yinlingzhban-ai-care>
